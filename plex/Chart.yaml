@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Plex media server chart for Kubernetes
 name: plex
-version: 0.1.0
+version: 0.1.1
