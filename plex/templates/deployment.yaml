@@ -37,7 +37,7 @@ spec:
           - mountPath: /downloads
             name: {{ .Chart.Name }}-volume
           - mountPath: /config
-            name: {{ .Chart.Name }}-volume
+            name: {{ .Chart.Name }}-config
           resources:
 {{ toYaml .Values.resources | indent 12 }}
     {{- if .Values.nodeSelector }}

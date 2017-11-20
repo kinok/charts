@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   plex:
   - apiVersion: v1
-    created: 2017-11-20T21:39:58.064433682+01:00
+    created: 2017-11-20T21:49:13.416032338+01:00
+    description: A Plex media server chart for Kubernetes
+    digest: 67062e9d8d1b7e64fda03c404f9db3d1cf3a7ee82ecc9fe276ebc8a7aa11493c
+    name: plex
+    urls:
+    - plex-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    created: 2017-11-20T21:49:13.4158727+01:00
     description: A Plex media server chart for Kubernetes
     digest: e96e7b91340e8764b50bc30c48f76bd747e5c8d7768e8ea27039cd861d3f7632
     name: plex
@@ -10,7 +18,7 @@ entries:
     - plex-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2017-11-20T21:39:58.064294996+01:00
+    created: 2017-11-20T21:49:13.41573072+01:00
     description: A Plex media server chart for Kubernetes
     digest: a95a5af3efc62a0b35f947d82f09ff873d72d99a7e3f39c3d1af83e963fe2dad
     name: plex
@@ -19,11 +27,11 @@ entries:
     version: 0.1.0
   transmission-daemon:
   - apiVersion: v1
-    created: 2017-11-20T21:39:58.064566621+01:00
+    created: 2017-11-20T21:49:13.416175053+01:00
     description: A transmission-daemon chart for Kubernetes
     digest: 4cb9b2bb74c88d478df38b4076e09ff8885fc3c83c961727e03f574c5b6fac77
     name: transmission-daemon
     urls:
     - transmission-daemon-0.1.0.tgz
     version: 0.1.0
-generated: 2017-11-20T21:39:58.064087373+01:00
+generated: 2017-11-20T21:49:13.415517642+01:00
